@@ -20,6 +20,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lukentui&theme=rose_pine)
 ### 🔗 Links
 
-[![Telegram](https://img.shields.io/badge/Telegram-3178C6?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/x0333)
+[![Telegram](https://img.shields.io/badge/Telegram-3178C6?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/x3330)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/311400173236518912)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luka-nikitin-148b26207/)
